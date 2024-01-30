@@ -10,6 +10,9 @@ This script automates the process of setting up a new Vite project with shadcn-u
 
 Before running this script, ensure that the following requirements are met:
 
+## Example usage
+`./setup-shadcn-project.sh my-project`
+
 1. **Node.js and npm**: The script uses Node Package Manager (npm) to install packages. Make sure Node.js and npm are installed on your system. You can download them from [Node.js official website](https://nodejs.org/).
 
 2. **jq**: This script uses `jq` for manipulating JSON data. `jq` must be installed on your system. Installation instructions can be found on the [jq official website](https://stedolan.github.io/jq/download/).
