@@ -1,4 +1,4 @@
-# Vite Project Setup Script
+# shadcn/ui starter script for Vite, React, Typescript
 
 ## Overview
 
